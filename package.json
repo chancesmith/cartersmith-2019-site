@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "watch-http-server": "^0.7.6"
+  },
+  "overrides": {
+    "fsevents": "2.3.3"
   }
 }
